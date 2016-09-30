@@ -1,0 +1,7 @@
+lsb
+cobbler
+openvswitch-switch
+rabbitmq-server
+erlang-sd-notify
+ipxe
+netfilter-persistent
